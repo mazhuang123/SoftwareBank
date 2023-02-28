@@ -1,0 +1,6 @@
+
+下载地址: https://github.com/MathewSachin/Captura/releases/tag/v9.0.0-beta4
+
+ffmpeg下载地址: https://www.gyan.dev/ffmpeg/builds/
+
+录制时不要选择全屏模式录制,要不然会崩溃,最好选用区域录制模式
